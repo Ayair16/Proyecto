@@ -1,0 +1,24 @@
+1,Fundamentos de Programación
+1,Matemáticas Discretas
+1,Introducción a las TIC
+2,Estructura de Datos
+2,Álgebra Lineal
+2,Fundamentos de Redes
+3,Programación Orientada a Objetos
+3,Base de Datos I
+3,Seguridad Informática
+4,Sistemas Operativos
+4,Base de Datos II
+4,Desarrollo Web
+5,Inteligencia Artificial
+5,Administración de Proyectos de TI
+5,Redes Avanzadas
+6,Ingeniería de Software
+6,Sistemas Embebidos
+6,Desarrollo Móvil
+7,Cómputo en la Nube
+7,Auditoría de Sistemas
+7,Análisis de Datos
+8,Arquitectura de Software
+8,Computación Gráfica
+8,Proyecto Final de ITICS
